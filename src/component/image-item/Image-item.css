@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.image-card {
+    background-color:#1c1b29;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.18);
+    width: 900px;
+    height: 700px;
+}

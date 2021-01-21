@@ -1,0 +1,35 @@
+export const ImageData = [
+    {
+        id:1,
+        imageSrc:'first.jpg'
+    },
+    {
+        id:2,
+        imageSrc:'second.jpg'
+    },
+    {
+        id:3,
+        imageSrc:'thrid.jpg'
+    },
+    {
+        id:4,
+        imageSrc:'fourth.jpg'
+    },
+    {
+        id:5,
+        imageSrc:'fifth.jpg'
+    },
+    {
+        id:6,
+        imageSrc:'sixth.jpg'
+    },
+    {
+        id:7,
+        imageSrc:'seventh.jpg'
+    },
+    {
+        id:8,
+        imageSrc:'Eighth.jpg'
+    },
+    
+]
